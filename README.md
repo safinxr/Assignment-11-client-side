@@ -1,4 +1,4 @@
-## DAKU
+## PC HOUSE
 ### Chake out the website: [PC HOUSE](https://pc-house-ef7fb.web.app/)
 
 #### WAREHOUSE MANAGEMENT WEBSITE: PC HOUSE
